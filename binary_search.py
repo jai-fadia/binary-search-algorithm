@@ -60,4 +60,4 @@ class binSearch():
             if i == upper or i == lower:
                 break
         
-        return f'Element {value} not found in the list list.'
+        return f'Element {value} not found in the list.'
